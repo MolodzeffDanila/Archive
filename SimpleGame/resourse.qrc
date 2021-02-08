@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/pref">
+        <file>resourses/start.png</file>
+        <file>resourses/exit.png</file>
+        <file>resourses/field.jpg</file>
+        <file>resourses/cell_green.jpg</file>
+        <file>resourses/fieldd.jpg</file>
+        <file>resourses/cell2.jpg</file>
+        <file>resourses/desert3.jpg</file>
+        <file>resourses/desert1.jpg</file>
+        <file>resourses/start_1.png</file>
+        <file>resourses/finish.png</file>
+        <file>resourses/oooo.jpg</file>
+        <file>resourses/dungeon.png</file>
+        <file>resourses/Slavick.png</file>
+        <file>resourses/fortress.png</file>
+        <file>resourses/mountain.png</file>
+        <file>resourses/ground.png</file>
+        <file>resourses/wall.png</file>
+        <file>resourses/grave.png</file>
+        <file>resourses/enemy.png</file>
+        <file>resourses/save1.png</file>
+        <file>resourses/load1.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>resourses/wall.png</file>
+    </qresource>
+</RCC>
